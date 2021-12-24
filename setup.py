@@ -19,5 +19,5 @@ setup(
   classifiers=classifiers,
   keywords='sharepoint', 
   packages=find_packages(),
-  install_requires=['setuptools','pandas','pandasql==0.7.3','Office365-REST-Python-Client','shillelagh==1.0.5','apsw-3.36.0.post1-cp38-cp38-manylinux1_x86_64.whl']
+  install_requires=['setuptools','pandas','pandasql==0.7.3','Office365-REST-Python-Client','shillelagh==1.0.5']
 )
