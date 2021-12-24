@@ -20,6 +20,6 @@ setup(
   keywords='sharepoint', 
   packages=find_packages(),
   #dependency_links=['https://files.pythonhosted.org/packages/94/19/5a42fbf4680afba462c89f68f979ef76f2c99d3014edeca46064977333e9/apsw_wheels-3.36.0.post1-cp39-cp39-win32.whl'],
-  install_requires=['setuptools','pandas','pandasql==0.7.3','apsw-wheels','Office365-REST-Python-Client','shillelagh==1.0.5']
+  install_requires=['setuptools','shillelagh==1.0.5','pandas','pandasql==0.7.3','apsw-wheels','Office365-REST-Python-Client']
   
 )
